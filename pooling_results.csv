@@ -1,0 +1,10 @@
+window_min,scenario,riders,match_%,saving_%,cab_trips_removed_%,miles_saved_%
+2,open pool (everyone),4596069,12.5,35.3,6.3,3.5
+2,women-only (50% of riders),2297344,7.0,35.2,3.5,1.8
+2,women-only (30% of riders),1379255,4.5,35.2,2.2,1.2
+5,open pool (everyone),4596069,24.3,35.4,12.2,7.1
+5,women-only (50% of riders),2297344,14.9,35.3,7.4,4.1
+5,women-only (30% of riders),1379255,9.9,35.3,5.0,2.7
+10,open pool (everyone),4596069,36.4,35.5,18.2,11.3
+10,women-only (50% of riders),2297344,24.3,35.4,12.1,7.0
+10,women-only (30% of riders),1379255,17.0,35.3,8.5,4.8
